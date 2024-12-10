@@ -26,7 +26,7 @@ Before running the app locally, you will need to have `Node.js` and `npm` instal
    Clone the repository to your local machine using the following command:
 
    ```bash
-   git clone 
+   git clone https://github.com/subhana0304/Task-Management-App
 
 2. **Live Site**
 https://verdant-bubblegum-482f82.netlify.app/
